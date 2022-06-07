@@ -2,10 +2,9 @@
 <h3 align="center">A passionate frontend developer from there is no place</h3>
 <a href="https://ibb.co/hgdLw9x"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa_6po7Tza5kWI8_mMtK4-eUfARjpa4rA99w&usqp=CAU" alt="github.com/SetaGanz" border="0"></a>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xsrcc&label=Profile%20views&color=0e75b6&style=flat" alt="xsrcc" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xsrcc" alt="xsrcc" /></a> </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xsrcc&label=Profile%20views&color=0e75b6&style=flat" alt="xsrcc" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
