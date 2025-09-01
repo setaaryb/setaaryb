@@ -7,24 +7,24 @@
   <img src="https://img.shields.io/github/stars/setaaryb?label=Stars&style=for-the-badge" alt="stars"/>
 </p>
 
-### 🏆 GitHub Trophies
+🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=setaaryb&theme=dracula&no-frame=true&margin-w=15&margin-h=15" alt="trophies"/>
 </p>
 
-### 🌐 Connect with me
+🌐 Connect with me
 <p align="center">
   <a href="https://linkedin.com/in/bayu-arya-seta-88524b313"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="https://fb.com/seto.sanwa.3"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
   <a href="https://instagram.com/aryastb_"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
 </p>
 
-### ⚙️ Languages and Tools
+⚙️ Languages and Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,php,js,cpp,cs,ruby,nodejs,react,nextjs,tailwind,html,css,mysql,docker,git,linux,figma,android,unity" />
 </p>
 
-### 📊 GitHub Stats
+📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=setaaryb&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=setaaryb&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
@@ -34,7 +34,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=setaaryb&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
-### ✨ Fun Fact
+✨ Fun Fact
 - 🔭 Sedang belajar **AI, Web Development, dan Mobile Apps**  
 - 🎯 Target: Menjadi **Fullstack Developer + Cybersecurity Enthusiast**  
 - ⚡ Fun Fact: Ngoding sambil denger musik 🎧 bikin lebih fokus  
