@@ -25,7 +25,7 @@ Saya percaya bahwa *belajar teknologi adalah perjalanan panjang*, dan setiap bar
 ### 🌐 Connect with me
 <p align="center">
   <a href="https://linkedin.com/in/bayu-arya-seta-88524b313"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://fb.com/seto.sanwa.3"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
+  <a href="https://facebook.com/seto.sanwa.3"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
   <a href="https://instagram.com/aryastb_"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
 </p>
 
